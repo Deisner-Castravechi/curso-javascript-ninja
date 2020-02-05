@@ -31,7 +31,7 @@ function setNovaVar(x) {
 setNovaVar(5);
 
 // Qual o retorno da função? (Use comentários de bloco).
-'O valor da variável agora é 5'
+/*O valor da variável agora é 5*/
 
 /*
 Crie uma função com as seguintes características:
